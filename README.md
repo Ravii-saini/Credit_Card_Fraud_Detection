@@ -82,12 +82,12 @@ plt.show()
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/Ravii-saini/Credit_Card_Fraud_Detection.git>
    ```
 
 2. **Install Required Packages**:
    ```bash
-   pip install -r requirements.txt
+   pip install pandas numpy matplotlib seaborn scikit-learn xgboost
    ```
 
 3. **Run the Jupyter Notebook**:
